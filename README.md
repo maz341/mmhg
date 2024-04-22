@@ -4,34 +4,34 @@ A flutter application which was an assessment from MMHG.
 
 ## 🛠 Skills
 
-React Native, Typescript, Styled-components, Expo
+Flutter, Dart, BLoC
 
 ## Demo
 
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/gif_1.gif' alt='Demo GIF'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/gif_2.gif' alt='Demo GIF'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/gif_3.gif' alt='Demo GIF'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/gif_1.gif' alt='Demo GIF'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/gif_2.gif' alt='Demo GIF'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/gif_3.gif' alt='Demo GIF'>
 
 <div align='center'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/gif_4.gif' width='200' alt='Demo GIF'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/gif_5.gif' width='200' alt='Demo GIF'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/gif_4.gif' width='200' alt='Demo GIF'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/gif_5.gif' width='200' alt='Demo GIF'>
 </div>
 
 ## Screenshots
 
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/ss1.png' width='200' alt='Demo Screenshot'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/ss1.png' width='200' alt='Demo Screenshot'>
 
 <div align='center'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/ss2.png' width='200' alt='Demo Screenshot'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/ss3.png' width='200' alt='Demo Screenshot'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/ss2.png' width='200' alt='Demo Screenshot'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/ss3.png' width='200' alt='Demo Screenshot'>
   
 </div>
 
 ## Demo Video
 
 <div align='center'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/vid1.mp4'  alt='Demo Video'>
-  <img src='https://gitlab.com/maz341/mmhg/-/raw/main/assets/demo/vid2.mp4'  alt='Demo Video'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/vid1.mp4'  alt='Demo Video'>
+  <img src='https://github.com/maz341/mmhg/-/raw/main/assets/demo/vid2.mp4'  alt='Demo Video'>
 
 </div>
 
