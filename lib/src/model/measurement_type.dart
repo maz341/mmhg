@@ -1,0 +1,4 @@
+enum MeasurementType {
+  bloodPressure,
+  glucose,
+}
