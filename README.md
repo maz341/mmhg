@@ -8,19 +8,18 @@ Flutter, Dart, BLoC
 
 ## Demo
 
-  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_1.gif' alt='Demo GIF'>
-  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_2.gif' alt='Demo GIF'>
-  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_3.gif' alt='Demo GIF'>
-
 <div align='center'>
   <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_4.gif' width='200' alt='Demo GIF'>
   <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_5.gif' width='200' alt='Demo GIF'>
 </div>
 
+  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_1.gif' alt='Demo GIF'>
+  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_2.gif' alt='Demo GIF'>
+  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/gif_3.gif' alt='Demo GIF'>
+
 ## Screenshots
 
-  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/ss1.png' width='200' alt='Demo Screenshot'>
-
+  <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/ss1.png'  alt='Demo Screenshot'>
 <div align='center'>
   <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/ss2.png' width='200' alt='Demo Screenshot'>
   <img src='https://raw.githubusercontent.com/maz341/mmhg/main/assets/demo/ss3.png' width='200' alt='Demo Screenshot'>
